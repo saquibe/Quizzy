@@ -6,7 +6,7 @@ const questions = [
   },
   {
     id: 2,
-    title: "How do I change my My Page password?",
+    title: "How do I change my Page password?",
     info: 'To change your password, go to the "Account Settings" section, select "Change Password," and follow the prompts. Ensure your new password is strong, with a mix of letters, numbers, and special characters.',
   },
   {
